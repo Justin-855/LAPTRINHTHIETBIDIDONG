@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UInew</string>
+    <string name="app_title">My First App</string>
+    <string name="hello_text">Hello</string>
+    <string name="button_text">Say Hi!</string>
+</resources>
