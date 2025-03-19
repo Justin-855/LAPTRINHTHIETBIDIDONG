@@ -1,0 +1,6 @@
+C:\Users\ACER\AndroidStudioProjects\btnhaptt\app\src\main\java\com\example\btnhaptt\ui\theme\Color.kt
+C:\Users\ACER\AndroidStudioProjects\btnhaptt\app\src\main\java\com\example\btnhaptt\MainActivity.kt
+C:\Users\ACER\AndroidStudioProjects\btnhaptt\app\src\main\java\com\example\btnhaptt\ui\theme\Type.kt
+C:\Users\ACER\AndroidStudioProjects\btnhaptt\app\src\main\java\com\example\btnhaptt\ui\theme\Theme.kt
+C:\Users\ACER\AndroidStudioProjects\btnhaptt\app\src\main\java\com\example\btnhaptt\MainActivity2.kt
+C:\Users\ACER\AndroidStudioProjects\btnhaptt\app\src\main\java\com\example\btnhaptt\MainActivity3.kt
